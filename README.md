@@ -17,4 +17,4 @@ The app competes with global platforms like Nike Training Club, but stands out b
 Benefits:
 The "Athletix" app aims to foster a fitness-conscious community, promote inclusivity, and encourage healthier lifestyles through certified trainer consultations, engaging content, and home-based workouts. It contributes to environmental sustainability by reducing the need for gym visits, supporting eco-friendly fitness routines.
 
-In summary, your presentation outlines a comprehensive solution that combines personalized fitness, technological innovation, and community building to address the fitness needs of Indian users.
+In summary, this presentation outlines a comprehensive solution that combines personalized fitness, technological innovation, and community building to address the fitness needs of Indian users.
